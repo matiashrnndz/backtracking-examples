@@ -1,0 +1,712 @@
+********************************************* Pruebas Laberinto OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 3,1 y se esperaba el 3,1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 4,1 y se esperaba el 4,1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 5,1 y se esperaba el 5,1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 6,1 y se esperaba el 6,1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 7,1 y se esperaba el 7,1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 8,1 y se esperaba el 8,1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 9,1 y se esperaba el 9,1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 10,1 y se esperaba el 10,1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 10,2 y se esperaba el 10,2
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 10,3 y se esperaba el 10,3
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 10,4 y se esperaba el 10,4
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 10,5 y se esperaba el 10,5
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 10,6 y se esperaba el 10,6
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 3,1 y se esperaba el 3,1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 3,2 y se esperaba el 3,2
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 3,3 y se esperaba el 3,3
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 4,3 y se esperaba el 4,3
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 5,3 y se esperaba el 5,3
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 6,3 y se esperaba el 6,3
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 6,4 y se esperaba el 6,4
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 6,5 y se esperaba el 6,5
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 6,6 y se esperaba el 6,6
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 5,6 y se esperaba el 5,6
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el camino 4,6 y se esperaba el 4,6
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Viajero OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el itinerario Montevideo-Punta del Este-Salto-Artigas y se esperaba el itinerario Montevideo-Punta del Este-Salto-Artigas
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el itinerario Punta del Este-Salto-Artigas-Rocha-Canelones y se esperaba el itinerario Punta del Este-Salto-Artigas-Rocha-Canelones
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el itinerario Punta del Este-Salto-Artigas-Paysandu-Canelones y se esperaba el itinerario Punta del Este-Salto-Artigas-Paysandu-Canelones
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el itinerario Punta del Este-Salto-Artigas-Paysandu-Canelones y se esperaba el itinerario Punta del Este-Salto-Artigas-Paysandu-Canelones
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el itinerario Punta del Este-Salto-Artigas-Paysandu-Canelones y se esperaba el itinerario Punta del Este-Salto-Artigas-Paysandu-Canelones
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Falta el itinerario Punta del Este-Montevideo-Artigas-Rocha-Canelones
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Falta el itinerario Punta del Este-Montevideo-Artigas-Paysandu-Canelones
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el itinerario Paysandu-Montevideo-Rocha y se esperaba el itinerario Paysandu-Montevideo-Rocha
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Intercalar OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 31 y se esperaba el elemento 31
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 24 y se esperaba el elemento 24
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 2 y se esperaba el elemento 2
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 3 y se esperaba el elemento 3
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 4 y se esperaba el elemento 4
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 6 y se esperaba el elemento 6
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 7 y se esperaba el elemento 7
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 9 y se esperaba el elemento 9
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 25 y se esperaba el elemento 25
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 28 y se esperaba el elemento 28
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 5 y se esperaba el elemento 5
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 1 y se esperaba el elemento 1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 1 y se esperaba el elemento 1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 2 y se esperaba el elemento 2
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 4 y se esperaba el elemento 4
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 5 y se esperaba el elemento 5
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 9 y se esperaba el elemento 9
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 10 y se esperaba el elemento 10
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 12 y se esperaba el elemento 12
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 14 y se esperaba el elemento 14
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 15 y se esperaba el elemento 15
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 16 y se esperaba el elemento 16
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 22 y se esperaba el elemento 22
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 3 y se esperaba el elemento 3
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 38 y se esperaba el elemento 38
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 1 y se esperaba el elemento 1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 4 y se esperaba el elemento 4
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 9 y se esperaba el elemento 9
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 15 y se esperaba el elemento 15
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 22 y se esperaba el elemento 22
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 2 y se esperaba el elemento 2
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 3 y se esperaba el elemento 3
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 5 y se esperaba el elemento 5
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 10 y se esperaba el elemento 10
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 11 y se esperaba el elemento 11
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 12 y se esperaba el elemento 12
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 14 y se esperaba el elemento 14
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se encontró el elemento 16 y se esperaba el elemento 16
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Degustacion OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo una suma de preferencias de valor 54 y se esperaba de valor 54
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo una suma de preferencias de valor 89 y se esperaba de valor 89
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo una suma de preferencias de valor 120 y se esperaba de valor 120
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Ejercicio Viajero2 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Viajero 2
+  Retorno obtenido NO_IMPLEMENTADA, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Viajero 2
+  Retorno obtenido NO_IMPLEMENTADA, se esperaba OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Ejercicio Protección Animales OK *********************************************
+
+
+
+
+
+********************************************* Pruebas  OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se esperaba un impacto total de '0' y se obtuvo '0'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas  OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se esperaba un impacto total de '10' y se obtuvo '10'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas  OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se esperaba un impacto total de '400' y se obtuvo '400'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas  OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se esperaba un impacto total de '210' y se obtuvo '210'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas  OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se esperaba un impacto total de '740' y se obtuvo '740'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas  OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se esperaba un impacto total de '743' y se obtuvo '743'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Ejercicio QuickSort OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '1'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '7'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '13'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '17'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '23'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '27'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '31'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '7'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '16'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '25'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '34'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '37'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '70'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '77'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '1'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '7'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '16'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '34'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '37'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '77'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '80'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo elemento '111'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Ejercicio Camino Caballo OK *********************************************
+
+
+
+
+
+********************************************* Pruebas Caminos Caballo OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo correctamente 0,0-1,2
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Caminos Caballo OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo correctamente 3,1-1,0-2,2-1,4-3,5
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo correctamente 3,1-1,0-0,2-1,4-3,5
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Ejercicio Optimizar Granja OK *********************************************
+
+
+
+
+
+********************************************* Pruebas  OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se esperaba una ganancia total de '0' y se obtuvo '0'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas  OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se esperaba una ganancia total de '35' y se obtuvo '35'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas  OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se esperaba una ganancia total de '210' y se obtuvo '210'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas  OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se esperaba una ganancia total de '90' y se obtuvo '90'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas  OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se esperaba una ganancia total de '315' y se obtuvo '315'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Ejercicio Inscribir Materias OK *********************************************
+
+
+
+
+
+********************************************* Pruebas Materias OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo la materia 'Matematica - matutino'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo la materia 'Algoritmos - nocturo'
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+  +------------------------------+
+    Pruebas Correctas : 109
+    Pruebas Incorrectas: 2
+    Pruebas NI: 2
+  +------------------------------+
